@@ -8,7 +8,7 @@ string productos[5][3] = {
     { "002", "Laptop Dell", "5" },
     { "003", "Monitor Samsung", "2" },
     { "004", "Mouse", "100" },
-    { "005", "HeadSet", "25" }
+    { "0 .\05", "HeadSet", "25" }
 };
 
 void listarProductos() {
